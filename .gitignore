@@ -1,0 +1,14 @@
+
+#ignorar los archivos bin
+bin/*
+
+#ignorar el archivo json
+.config.json
+
+#ignorar los archivos node_modules
+libs/datemanager/node_modules
+libs/socketenabler/node_modules
+
+#ignorar los ficheros .class
+*.class
+
